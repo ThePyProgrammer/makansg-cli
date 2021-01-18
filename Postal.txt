@@ -1,0 +1,81 @@
+01,Raffles Place Marina People's Park
+02,Raffles Place Marina People's Park
+03,Raffles Place Marina People's Park
+04,Raffles Place Marina People's Park
+05,Raffles Place Marina People's Park
+06,Raffles Place Marina People's Park
+07,Anson Tanjong Pagar
+08,Anson Tanjong Pagar
+09,Telok Blangah Harbourfront
+10,Telok Blangah Harbourfront
+11,Pasir Panjang Clementi
+12,Pasir Panjang Clementi
+13,Pasir Panjang Clementi
+14,Bukit Merah Queenstown Tiong Bahru
+15,Bukit Merah Queenstown Tiong Bahru
+16,Bukit Merah Queenstown Tiong Bahru
+17,Beach Road
+18,Middle Road Golden Mile
+19,Middle Road Golden Mile
+20,Little India Farrer Park Jalan Besar Lavender
+21,Little India Farrer Park Jalan Besar Lavender
+22,Orchard Cairnhill River Valley
+23,Orchard Cairnhill River Valley
+24,Ardmore Bukit Timah Holland Road Tanglin
+25,Ardmore Bukit Timah Holland Road Tanglin
+26,Ardmore Bukit Timah Holland Road Tanglin
+27,Ardmore Bukit Timah Holland Road Tanglin
+28,Novena Thomson
+29,Novena Thomson
+30,Novena Thomson
+31,Balestier Toa Payoh Serangoon
+32,Balestier Toa Payoh Serangoon
+33,Balestier Toa Payoh Serangoon
+34,Macpherson Braddell
+35,Macpherson Braddell
+36,Macpherson Braddell
+37,Macpherson Braddell
+38,Geylang Eunos
+39,Geylang Eunos
+40,Geylang Eunos
+41,Geylang Eunos
+42,Katong Joo Chiat
+43,Katong Joo Chiat
+44,Katong Joo Chiat
+45,Katong Joo Chiat
+46,Bedok Upper East Coast
+47,Bedok Upper East Coast
+48,Bedok Upper East Coast
+49,Loyang Changi
+50,Loyang Changi
+51,Simei Tampines Pasir Ris
+52,Simei Tampines Pasir Ris
+53,Serangoon Hougang Punggol
+54,Serangoon Hougang Punggol
+55,Serangoon Hougang Punggol
+56,Bishan Ang Mo Kio
+57,Bishan Ang Mo Kio
+58,Upper Bukit Timah Ulu Pandan
+59,Upper Bukit Timah Ulu Pandan
+60,Jurong Tuas
+61,Jurong Tuas
+62,Jurong Tuas
+63,Jurong Tuas
+64,Jurong Tuas
+65,Hillview Dairy Farm Bukit Panjang Choa Chu Kang
+66,Hillview Dairy Farm Bukit Panjang Choa Chu Kang
+67,Hillview Dairy Farm Bukit Panjang Choa Chu Kang
+68,Hillview Dairy Farm Bukit Panjang Choa Chu Kang
+69,Lim Chu Kang Tengah
+70,Lim Chu Kang Tengah
+71,Lim Chu Kang Tengah
+72,Kranji Woodgrove Woodlands
+73,Kranji Woodgrove Woodlands
+75,Yishun Sembawang
+76,Yishun Sembawang
+77,Upper Thomson Springleaf 
+78,Upper Thomson Springleaf
+79,Seletar 
+80,Seletar
+81,Loyang Changi
+82,Serangoon Hougang Punggol

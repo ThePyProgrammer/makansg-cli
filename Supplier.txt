@@ -1,0 +1,500 @@
+01A2,CME8,Satay,5.00
+02B1,ERE5,Char Kway Teow,6.50
+01B2,EGN6,Mee Goreng,10.50
+02A1,SOW6,Fried Rice,14.00
+02B2,NEE5,Pork Chop,5.00
+02B2,WXN5,Chicken Chop,10.00
+03A1,NMN8,Ice Kachang,7.50
+03A2,NQN5,Char Kway Teow,11.50
+03A2,SJE8,Curry Chicken,6.50
+03A2,WCN7,Char Siew Rice,8.00
+04A1,SCS8,Ice Coffee,13.50
+04A2,SMN7,Beef Steak,8.00
+04B1,CNC6,Duck Rice (Roasted),6.00
+04B1,NHC7,Pepsi,11.50
+04B2,WLN5,Bobo Chacha,10.00
+05A1,EIN8,Fish Burger,6.00
+05A1,SNC7,Spaghetti,3.00
+06A1,CJN8,Spring Roll,7.50
+06A1,EWN8,Orange Juice,6.50
+06A2,CXN7,Ayam Penyut,3.50
+06A2,SOC8,Nasi Padang,8.50
+06A2,SQC6,Mee Goreng,5.00
+06B1,CRE7,Roti Prata,14.00
+06B1,EUC5,Yong Tau Foo,6.00
+06B1,EUC6,Mee Goreng,4.50
+06B1,NFE5,Duck Rice (Braised),3.00
+06B1,NHN8,Chili Crab,14.50
+06B1,WQN5,Chicken Chop,12.50
+06B2,NRS6,Duck Rice (Roasted),10.00
+07A1,CIC7,Chicken Chop,11.00
+07A1,ELW6,Pork Chop,10.00
+07A2,CBC5,Pizza,3.00
+07A2,CXS5,Char Siew Rice,8.50
+07A2,SPC5,Beef Steak,13.00
+07B1,CRW7,Sushi,8.50
+07B2,CPC5,Milk Shake,7.50
+07B2,ENE5,Bubble Tea,6.00
+07B2,SLC8,Chicken Rice (Roasted),10.50
+07B2,WDW7,Chicken Rice (White),14.50
+07B2,WVS7,Chili Crab,11.50
+08A1,CNW8,Chicken Chop,5.50
+08A1,WWE5,Chicken Rice (White),3.50
+08A2,CPN8,BBQ Chicken Wings,10.50
+08A2,SYN7,Chicken Nuggets,6.50
+08B1,CFS7,Duck Rice (Roasted),9.00
+08B2,CJN6,Sushi,8.00
+09A2,ENW8,Rice Dumplings,8.50
+09A2,SAS5,Ice Kachang,5.50
+09B1,CWW7,Ice Coffee,5.50
+09B1,NAC7,Lamb Chop,3.50
+09B1,WGW6,Ice Coffee,8.50
+09B1,WPS6,Satay,7.00
+09B2,CHW5,Fried Chick Wings,12.50
+09B2,WJE6,Spring Roll,10.50
+10A1,CON6,Fish Burger,6.00
+10A2,EPC6,Bubble Tea,8.50
+10A2,EWS8,Satay,10.00
+10A2,SNC6,Char Kway Teow,14.00
+10B2,WLW5,Ice Milo,10.50
+11A1,EDS5,Chicken Cutlet,6.00
+11A1,SUS7,Prawn Mee Soup,8.50
+11A1,WTW5,Chili Crab,10.00
+11B1,WCC5,Sugar Cane Juice,8.50
+12A1,NVC5,Pizza,12.00
+12A1,SKN6,Ice Milo,7.00
+12A2,NKS7,Chicken Cutlet,5.00
+12B1,CMN5,Spaghetti,5.00
+12B1,SFS8,Ayam Penyut,5.50
+12B1,WQW5,Ice Coffee,4.50
+13A1,NMS6,Ayam Penyut,5.00
+13A2,EJS7,Fish Burger,11.00
+13A2,EKC6,Duck Rice (Roasted),6.50
+13A2,NWE5,Spaghetti,4.00
+13B1,CSW7,Ice Milo,9.50
+13B2,NAE6,Char Siew Rice,13.50
+13B2,SZN7,Lamb Chop,10.00
+13B2,WBW6,Roti Prata,8.00
+13B2,WTN5,Wanton Noodle,5.50
+14A1,CGC8,Chicken Nuggets,12.50
+14A1,NXS5,Mee Siam,10.00
+14A1,SGS5,Fried Rice,13.50
+14A2,CAE7,Coke,14.00
+14A2,NLC6,Ice Kachang,12.50
+14A2,SKS5,Mee Rebus,7.50
+14A2,SPW7,Duck Rice (Braised),13.50
+14B1,SQE5,Chicken Cutlet,9.50
+14B1,WKC5,Yong Tau Foo,14.00
+14B2,CUC7,Wanton Noodle,10.00
+15A1,SRN6,Duck Rice (Braised),5.00
+15A2,ERN7,Fried Prawn Mee,3.50
+15A2,SEW8,Fried Prawn Mee,4.50
+15A2,WCS7,Chicken Chop,6.50
+15B1,EBE7,Pork Chop,10.50
+15B1,WHW6,Spaghetti,14.00
+15B2,NQE8,Nasi Lemak,5.00
+15B2,WAS6,Char Siew Rice,12.50
+15B2,WFN6,Roti Prata,3.00
+16A1,SHC6,Pizza,7.50
+16A1,WBS7,Fried Bee Hoon,3.50
+16A2,SOW6,Coke,7.50
+16A2,WJN7,Cheese Burger,3.00
+16A2,WJW7,Chili Crab,7.50
+16B1,ENE5,Chicken Chop,7.00
+16B1,EOE7,Char Kway Teow,3.50
+17A2,SBS6,Nasi Lemak,13.50
+17B1,WXE5,Orange Juice,14.50
+17B1,WZW6,Chicken Nuggets,8.50
+17B2,WVE8,Beef Steak,14.00
+17B2,WZN7,Beef Steak,5.00
+18A2,CFE8,Spring Roll,11.50
+18A2,SKE7,Nasi Padang,12.50
+18B1,SVC6,Ayam Penyut,7.50
+19A1,NMN8,Chicken Chop,3.50
+19A1,SAW7,Spaghetti,7.00
+19A1,SIW8,Cheese Burger,3.50
+19A1,WIE8,Ice Kachang,10.00
+19A2,SZC7,Nasi Padang,13.50
+19A2,WUW5,Mineral Water,14.00
+20A1,CFN6,Duck Rice (Braised),5.50
+20A1,EEW7,Chili Crab,7.00
+20A1,ESE6,Pizza,4.50
+20A1,SKE6,Chili Crab,9.50
+20A2,WXN5,Duck Rice (Roasted),9.50
+20B1,NTC6,Bubble Tea,5.50
+20B1,WZE6,Coke,3.00
+21A1,CCN6,Pepsi,8.00
+21A1,CKC5,Cheese Burger,7.00
+21A1,COE8,Fried Rice,8.50
+21A1,NFE6,Bak Kut Teh,10.00
+21A2,CAS7,Chili Crab,7.00
+21A2,EGS7,Ice Coffee,7.00
+21A2,SAE6,Chicken Rice (White),9.50
+21B2,STE6,Satay,13.50
+22A2,CSE8,Pork Chop,4.50
+22B1,CMC6,Sushi,8.50
+22B1,SNW8,Duck Rice (Braised),4.00
+22B2,NBW8,Duck Rice (Braised),4.00
+22B2,WTS5,Chili Crab,5.50
+23A2,CBE6,Rice Dumplings,12.00
+23A2,ETS6,Chicken Rice (White),3.50
+23A2,EWN6,Curry Chicken,13.50
+23A2,NXE5,Char Kway Teow,4.00
+23B1,ETW7,Ice Milo,3.00
+23B2,CCS8,Roti Prata,13.50
+23B2,CFW6,Cheese Burger,10.00
+23B2,NUE7,Mee Rebus,4.00
+24A1,NBN5,Mee Rebus,6.00
+24A2,NGS5,Pork Cutlet,5.50
+25A1,SDW7,Ice Kachang,12.00
+25A1,WIC5,Ice Coffee,12.00
+25B1,CWS6,Chicken Cutlet,3.50
+25B2,NMC5,Pizza,5.00
+26A2,NVC8,Chicken Cutlet,7.50
+26A2,SYS7,Chili Crab,13.50
+26B1,NYE6,Pork Chop,6.00
+26B1,WRC7,Fried Rice,8.00
+26B2,CZW7,Mee Rebus,4.00
+26B2,EKC6,Sushi,12.00
+26B2,NHE5,Pepsi,3.50
+27A1,EQS7,Satay,14.50
+27B1,EAC8,Bubble Tea,13.50
+27B1,ETE5,Sushi,5.50
+27B1,NSN5,Rice Dumplings,9.00
+27B2,CWE7,Cheese Burger,3.00
+28A1,WBE8,Fried Chick Wings,14.00
+28A2,CYN5,Pork Cutlet,10.50
+28A2,NKW5,Chicken Rice (White),10.00
+28B1,EJN7,Ice Milo,9.00
+28B1,EQC6,Wanton Noodle,14.50
+28B1,NLW5,Chicken Rice (Roasted),10.50
+28B1,WWW7,Mee Goreng,11.00
+29A1,CHE8,Bak Kut Teh,5.50
+29A1,ESC8,Satay,4.50
+29A1,NFE8,Char Siew Rice,10.50
+29A2,NAW5,Pork Cutlet,14.50
+29A2,NCE8,Nasi Padang,4.00
+29B1,CHW8,Chicken Rice (Roasted),9.00
+29B1,NFN5,Char Kway Teow,13.50
+29B2,SRW6,Pepsi,13.50
+30A1,NLE5,Nasi Padang,5.50
+30A2,EOE8,BBQ Chicken Wings,11.00
+30A2,SGC6,Chili Crab,12.50
+30A2,SKN5,BBQ Chicken Wings,8.50
+30B1,SIN7,Sugar Cane Juice,14.50
+30B1,SOW6,Chicken Chop,5.00
+30B2,NEE7,Fish Burger,5.50
+301B2,NHS8,Orange Juice,9.50
+30A1,CBS8,Pepsi,3.50
+30A1,WIN5,Fried Chick Wings,5.00
+30A2,CNS7,Satay,9.50
+30A2,NGW6,Spring Roll,3.00
+30B1,EYW8,Sushi,14.00
+30B2,NQE5,Nasi Padang,4.00
+30A1,SWN8,Bak Kut Teh,11.00
+30A2,EAE7,Nasi Lemak,3.00
+30A2,ETN6,Mee Goreng,7.00
+30B1,CYN7,Chicken Rice (White),12.00
+30B1,EVC6,Yong Tau Foo,4.00
+30B2,NVE7,Mee Siam,14.50
+30B2,NVW6,Coke,11.00
+34B1,EON6,Char Siew Rice,14.00
+34B1,WJN7,Bak Kut Teh,8.00
+34B2,NVW7,Coke,7.00
+34B2,WLE5,Chicken Cutlet,6.00
+35A1,EPC6,Chicken Chop,8.00
+35A1,WBW8,Cheese Burger,12.00
+35A2,SUW6,Duck Rice (Braised),14.50
+35B1,CVE7,Duck Rice (Braised),13.00
+35B1,NBE5,Spring Roll,4.00
+36A2,NRN5,Wanton Noodle,5.00
+36B1,SEW7,Chicken Cutlet,10.00
+36B2,CFW7,Char Kway Teow,9.00
+36B2,EEE5,Pizza,11.50
+36B2,NFE6,Fried Bee Hoon,13.00
+36B2,NKW7,Coke,14.50
+37A1,NQS6,Chicken Chop,3.50
+37A1,SJE5,Fried Prawn Mee,4.00
+37A1,WWW7,Curry Chicken,4.00
+37B2,CPC5,Fried Prawn Mee,12.50
+37B2,WLW6,Char Kway Teow,9.00
+38A2,EIS8,Beef Steak,12.00
+38A2,EQE7,Mee Goreng,7.50
+38A2,NDW6,Spaghetti,12.00
+38A2,NIC7,Beef Steak,11.00
+38A2,SGN5,Pepsi,9.00
+39A1,SEE8,Curry Chicken,9.50
+39A1,WUS8,Char Kway Teow,3.50
+39B1,EWC5,Char Siew Rice,6.00
+39B2,NXC6,Rice Dumplings,3.00
+40A2,CFW6,Beef Steak,5.00
+40A2,CGC8,Yong Tau Foo,6.50
+40A2,EHN7,Chicken Nuggets,13.00
+40A2,EOW8,Fried Prawn Mee,8.50
+40B1,CPE8,Ice Coffee,9.50
+40B2,NEW5,Spaghetti,4.50
+41A1,CSE5,Beef Steak,3.50
+41A1,SOE6,Wanton Noodle,12.00
+41A1,WTN5,Ice Kachang,9.50
+41A2,CWS6,BBQ Chicken Wings,11.00
+41A2,ECN6,Lamb Chop,3.00
+41A2,EJW7,Chicken Rice (Roasted),7.50
+41B1,NMS8,Fried Rice,8.50
+41B1,SXC6,Curry Chicken,11.00
+41B1,WXW6,Chicken Rice (White),9.50
+41B2,CQS8,Curry Chicken,4.00
+41B2,EIN5,Orange Juice,4.00
+42A1,EBN8,Nasi Padang,9.50
+42A1,SHN5,Sugar Cane Juice,8.50
+42A1,WBC6,Chicken Nuggets,14.00
+42B1,NHS8,Ice Milo,10.50
+42B2,SGW8,Chicken Chop,3.50
+43A1,WLC7,Spring Roll,10.00
+43A2,EJC6,Pizza,14.50
+43A2,EXC5,Orange Juice,6.50
+43B1,CPN5,Spring Roll,11.00
+43B1,ENS8,Nasi Lemak,12.50
+43B2,CZW7,Pork Cutlet,9.00
+43B2,EIW6,Rice Dumplings,4.50
+43B2,SYS8,Char Kway Teow,4.50
+43B2,WHW8,Cheese Burger,14.00
+44A1,WUC7,Orange Juice,8.00
+44A1,WWW7,Spring Roll,12.00
+44A2,CWS6,Roti Prata,5.50
+44B1,EXN7,Lamb Chop,6.00
+45A1,WRE5,Coke,12.50
+45A2,SKC8,Ayam Penyut,7.50
+45A2,WKS5,Coke,13.50
+45B2,CYC7,BBQ Chicken Wings,7.50
+46A1,EVW6,Pork Chop,10.00
+46A1,NJW8,Orange Juice,6.00
+46A1,WRS5,Laksa,10.50
+46B1,CPS5,Fried Prawn Mee,6.50
+46B1,EME6,Bubble Tea,11.50
+46B1,EPS8,Fried Prawn Mee,9.00
+46B1,WCS7,Ice Kachang,11.00
+46B2,WCE5,Mineral Water,7.00
+47A1,CQE5,Mineral Water,11.00
+47A1,EAS6,Chicken Cutlet,8.00
+47A1,NCN6,Pork Cutlet,14.50
+47B1,EGC8,Bobo Chacha,6.00
+47B1,WQW7,Char Kway Teow,9.00
+47B2,NPW6,Fried Bee Hoon,6.00
+47B2,SRS5,Laksa,14.50
+48A1,CCE8,Chili Crab,11.00
+48B1,EGC5,Roti Prata,11.50
+48B2,NAN5,Rice Dumplings,12.00
+48B2,SES8,Char Siew Rice,11.00
+49A1,ECC8,Fried Bee Hoon,3.00
+49A1,EUC8,Fried Chick Wings,7.00
+49A1,SLC6,Ice Kachang,5.00
+49A2,NBC8,Curry Chicken,13.00
+49A2,SPW8,Chicken Chop,6.50
+49B1,CLE5,Chicken Rice (Roasted),8.50
+49B2,CGN6,Lamb Chop,11.00
+49B2,SOS8,Mineral Water,6.50
+50A1,EYC6,Milk Shake,3.00
+50A1,NBC7,Satay,8.00
+50A2,SVW7,Ice Kachang,7.00
+50B1,CIN6,Fried Bee Hoon,8.00
+50B2,EDN7,Roti Prata,6.00
+50B2,SCS8,Rice Dumplings,12.50
+51A1,SRE8,Roti Prata,12.00
+51A2,CAE6,Duck Rice (Roasted),12.00
+51B1,SBN7,Spaghetti,11.00
+51B2,EFW8,Chili Crab,9.50
+51B2,EON5,Bobo Chacha,3.50
+52A1,SFN7,Bak Kut Teh,3.50
+52A1,STW5,Ice Coffee,12.00
+52B2,NXS8,Lamb Chop,9.00
+52B2,SAS7,Nasi Padang,6.00
+53B2,EEW5,Fried Bee Hoon,13.50
+53B2,NEN6,Curry Chicken,7.50
+54A1,WES7,Chicken Rice (White),6.50
+54B2,SHS8,Yong Tau Foo,4.50
+55A1,EWC6,Coke,7.00
+55A1,SGW6,Char Kway Teow,4.50
+55A1,WXE5,Spaghetti,4.50
+55A2,EJW8,Spaghetti,12.00
+55A2,EQN5,Lamb Chop,6.50
+55B1,EKN7,Beef Steak,13.50
+56A1,CSE7,Curry Chicken,10.00
+56A1,NTS8,Prawn Mee Soup,12.00
+56A1,SJN5,Mee Rebus,13.00
+56A1,WQC6,Bobo Chacha,10.00
+56A2,SEC7,Nasi Padang,12.50
+56B1,CPC7,Chicken Chop,11.50
+56B1,WHN8,Cheese Burger,8.00
+56B2,CKC7,Chili Crab,14.50
+57A1,WBC6,Laksa,3.00
+57A1,WJW5,Chicken Rice (Roasted),3.00
+57A2,EGS8,Fish Burger,5.00
+57B1,NZS6,Nasi Padang,7.00
+57B2,NQW6,Fried Bee Hoon,12.00
+57B2,SME7,Mee Siam,4.00
+57B2,WXN6,Mineral Water,14.50
+58A1,CCC8,Ice Coffee,9.00
+58A1,CVN6,Bak Kut Teh,11.50
+58A1,CXN6,Chicken Nuggets,10.50
+58A2,SDE7,Wanton Noodle,12.50
+58A2,WXN8,Bak Kut Teh,6.00
+58B1,CCW7,Rice Dumplings,13.50
+58B1,WJE8,Mee Rebus,12.00
+58B1,WPC6,Ice Coffee,12.50
+58B2,WLS7,Chicken Chop,4.00
+59B1,WDW8,Lamb Chop,5.50
+59B2,SLS8,Bobo Chacha,3.00
+59B2,SPN8,Nasi Lemak,7.50
+60A1,EIE7,Laksa,10.50
+60A1,NUC7,Satay,8.00
+60A2,CPN7,Mee Siam,4.50
+60A2,WSS6,Pork Cutlet,7.50
+60B1,SEW5,Fried Rice,6.00
+60B1,WTE5,Duck Rice (Braised),11.00
+61A1,NLC7,Sugar Cane Juice,6.00
+61A1,SEE7,Sushi,9.00
+61A2,CHC8,Ice Coffee,11.00
+61A2,EKW7,Curry Chicken,10.00
+61A2,EVS8,Milk Shake,11.00
+61A2,WDW7,Fried Prawn Mee,12.50
+61B1,CUC6,Prawn Mee Soup,7.50
+61B1,EPE6,Spring Roll,3.00
+61B1,WKS7,Mee Siam,7.50
+61B2,CBW8,Spaghetti,14.50
+61B2,NYW8,Ayam Penyut,12.00
+62A1,WIW5,Char Siew Rice,13.00
+62A2,WFS5,Mee Goreng,10.50
+62A2,WLW6,Wanton Noodle,5.50
+62B1,WWC6,Chili Crab,13.00
+62B2,NLW7,Nasi Lemak,8.50
+63A1,WNW6,Ayam Penyut,5.50
+63A2,CPN6,Pepsi,12.50
+63A2,CXN5,Rice Dumplings,5.00
+63A2,EMS7,Ice Milo,5.00
+63A2,NQN5,Fried Chick Wings,8.50
+63A2,SSW7,Chicken Rice (White),3.50
+63B1,CYN5,Pork Chop,8.50
+63B1,NHE6,Pork Chop,9.50
+63B1,NYC5,Char Kway Teow,8.50
+63B2,NHC7,Ice Milo,3.00
+63B2,NIS5,Spring Roll,6.00
+64A1,WVE8,Spring Roll,8.50
+64A2,SVE8,Fried Bee Hoon,10.50
+64B2,CYN6,Ayam Penyut,7.50
+65A2,ENW6,Chicken Rice (Roasted),3.50
+65A2,WFE6,Mee Siam,9.50
+65B2,WAC5,Char Kway Teow,14.00
+66A2,NBC8,Prawn Mee Soup,3.00
+66A2,NVW7,Coke,9.00
+66A2,SZC5,Ayam Penyut,11.50
+66B1,CGC6,Mee Siam,9.50
+66B1,ECS6,Yong Tau Foo,8.00
+66B1,EGC7,Beef Steak,3.50
+67B1,WLW6,Fried Bee Hoon,11.00
+67B1,WSW6,Ice Milo,9.00
+67B2,SMC6,Ice Kachang,14.50
+68A1,SVS6,Prawn Mee Soup,10.50
+68A2,EQC6,Orange Juice,12.00
+68A2,NVE5,Spring Roll,11.00
+68B1,CEE7,Bubble Tea,8.00
+68B1,EEC7,Bak Kut Teh,5.50
+68B1,SCN7,Fried Chick Wings,13.00
+68B2,COW5,Sugar Cane Juice,9.50
+68B2,CVW7,Spring Roll,12.00
+68B2,EHS8,Nasi Lemak,7.50
+68B2,SFN6,Sugar Cane Juice,12.00
+69A1,SPE6,Ice Milo,6.50
+69A2,WSE5,Chicken Rice (White),4.50
+69A2,WZN6,Lamb Chop,12.50
+69B1,CCN8,Mee Rebus,11.50
+69B2,CUE8,Mee Rebus,13.50
+69B2,NFW6,Chili Crab,5.00
+69B2,WLE5,Nasi Lemak,8.50
+70A1,ENW8,Wanton Noodle,8.50
+70A1,EUN6,Fried Prawn Mee,6.50
+70A1,SUN8,Ayam Penyut,12.50
+70A2,EPN8,Wanton Noodle,13.50
+70A2,SXC7,Fried Prawn Mee,3.50
+70B1,NIN8,Spaghetti,12.00
+70B1,NJS7,Beef Steak,12.00
+70B1,WPE8,Orange Juice,6.50
+70B2,CMS6,Fish Burger,8.50
+70B2,WQC6,Ice Coffee,5.00
+71A1,CIW6,Roti Prata,14.00
+71A1,NEN7,Prawn Mee Soup,9.00
+71A1,NJC8,Bubble Tea,10.00
+71A1,WAS8,Mee Siam,7.00
+71A2,EHE8,Sushi,6.50
+71A2,NDS6,Mineral Water,9.00
+71A2,NIW5,Laksa,4.50
+71B1,SAE5,Char Kway Teow,12.50
+71B1,SRC5,Milk Shake,6.50
+71B2,CFW6,Fried Prawn Mee,12.00
+72A2,CVW8,Mee Rebus,6.00
+72A2,WPN8,Chicken Rice (Roasted),10.50
+72B1,CBC7,Beef Steak,3.00
+72B1,NZS7,Pizza,14.50
+72B2,WLC5,Cheese Burger,8.50
+73A2,CRC5,Ice Kachang,6.50
+73A2,SOS6,Fried Bee Hoon,3.50
+73A2,WTN8,Ice Coffee,6.00
+73B1,NFC8,Roti Prata,9.00
+73B2,NKS6,Wanton Noodle,4.50
+73B2,WKE5,Fried Rice,10.50
+75A1,NVE8,Mineral Water,4.00
+75A1,WES7,Satay,12.00
+75A1,WFS5,Sugar Cane Juice,8.50
+75A1,WNE8,Chicken Cutlet,14.00
+75A2,ELE7,Ice Coffee,3.00
+75A2,SFC7,Nasi Padang,5.00
+75B1,EKW6,Beef Steak,6.50
+75B1,WUS6,Mee Goreng,8.00
+75B2,CJC7,Duck Rice (Braised),6.00
+75B2,EZN7,Milk Shake,8.00
+75B2,NHW8,Mineral Water,13.00
+76A1,WDW6,Spaghetti,11.00
+76A2,SAW5,Mee Goreng,10.50
+76B2,CGN8,Char Kway Teow,3.50
+76B2,NJC8,Pork Cutlet,12.00
+76B2,NJW5,Coke,3.00
+76B2,WSE5,Milk Shake,4.50
+77A1,NCC7,Ayam Penyut,14.00
+77A1,WTW6,Char Kway Teow,7.50
+77A2,CHE6,BBQ Chicken Wings,11.50
+77A2,COE6,Chicken Chop,4.50
+77A2,NVN7,Pizza,8.50
+77B1,CTC5,Sushi,13.50
+77B2,EKN7,Fried Chick Wings,9.00
+78A1,CAN8,Cheese Burger,11.50
+78A1,ETW5,Nasi Lemak,8.50
+78A1,EZN7,Roti Prata,4.50
+78A1,NMS6,Pork Cutlet,7.00
+78A2,CZE8,Mee Siam,10.50
+78A2,EMS6,Fish Burger,8.50
+78A2,EUS6,Mee Goreng,11.00
+78A2,NLC6,Curry Chicken,7.50
+78A2,NTW8,Curry Chicken,7.50
+78B1,CAE7,Ice Coffee,3.00
+78B1,EGC5,Rice Dumplings,11.50
+79A2,CRN8,Rice Dumplings,13.00
+79A2,CXN5,Rice Dumplings,11.00
+79A2,NFC6,Fried Rice,9.50
+79B2,NMW7,Chicken Rice (White),7.50
+80A1,CRS8,Beef Steak,14.00
+80A2,NBE7,Mineral Water,14.00
+80A2,NBN6,Chicken Chop,9.00
+80A2,WQW6,Milk Shake,3.50
+80B1,CGN5,Mee Rebus,8.50
+80B1,ERE7,Pork Cutlet,10.00
+80B1,WAC7,Laksa,14.50
+80B2,SMN7,Roti Prata,5.00
+80B2,WNW6,Fried Bee Hoon,3.50
+81A1,CUS6,Chicken Cutlet,14.50
+81A1,CYS8,Cheese Burger,13.50
+81A1,EGE7,Spaghetti,3.50
+81A1,WKN8,Chicken Nuggets,14.00
+81A2,ECE8,Fried Rice,3.50
+81A2,SSN5,Bak Kut Teh,11.50
+81A2,WNS8,Pizza,8.00
+82A1,CLC8,Ice Kachang,11.00
+82A1,NIW6,Prawn Mee Soup,8.00

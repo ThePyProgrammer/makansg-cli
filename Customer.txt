@@ -1,0 +1,3 @@
+M100001SG,Jamie Tan,27 Bedok South Road #15-09,460027
+M100002SG,James Ng,12 Bukit Merah Crescent #04-95,150012
+M100003SG,Jacob Lim,5 Novena Road,290005
